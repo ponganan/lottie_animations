@@ -15,7 +15,16 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Lottie Animaion')),
+        appBar: AppBar(
+          title: Text(
+            'Lottie Animaion',
+            style: TextStyle(
+              fontSize: 30,
+              fontWeight: FontWeight.w900,
+            ),
+          ),
+          centerTitle: true,
+        ),
         body: Center(
           //margin: EdgeInsets.all(10.0),
           child: Column(
