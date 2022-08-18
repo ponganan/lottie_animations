@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ponganan.jijiapp">
+    package="com.ponganan.lottie.lottie_animations">
    <application
         android:label="JiJi App"
         android:name="${applicationName}"
