@@ -65,7 +65,7 @@ class _MyAppState extends State<MyApp> {
                     // true or false
                     animate: true),
                 Lottie.network(
-                    'https://assets10.lottiefiles.com/packages/lf20_hevhmgvc.json',
+                    'https://assets6.lottiefiles.com/packages/lf20_tFAVx9hk3S.json',
                     //this line for start or stop animation
                     // true or false
                     animate: true),
